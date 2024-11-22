@@ -1,4 +1,4 @@
-```markdown
+
 # Netflix Content Strategy Analysis with Python 📊🎬
 
 ## Overview
