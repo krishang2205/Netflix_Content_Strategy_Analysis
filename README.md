@@ -11,9 +11,8 @@ This project involves a comprehensive analysis of Netflix's content strategy, fo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Analysis Overview](#analysis-overview)
-- [Results](#results)
 - [Conclusion](#conclusion)
-- [References](#references)
+
 
 ## Project Description
 The goal of this project is to analyze Netflix's content strategy by examining how different types of content perform in terms of viewership. Key aspects explored include:
