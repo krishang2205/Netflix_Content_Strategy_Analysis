@@ -29,7 +29,6 @@ The dataset used for this analysis contains information about Netflix's shows an
 - **Content Type**: Classification as either a show or a movie.
 - **Hours Viewed**: Total hours of viewership for each title.
 
-You can download the dataset from [this link](insert_dataset_link_here).
 
 ## Technologies Used
 This project utilizes the following technologies:
