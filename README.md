@@ -41,7 +41,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-content-strategy-analysis.git
+   git clone https://github.com/krishang2205/Netflix_Content_Strategy_Analysis.git
    cd netflix-content-strategy-analysis
    ```
 
